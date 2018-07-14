@@ -3,7 +3,7 @@
 ## Active
 
 Test:
-![Battery Pack for Raspberry Pi](/doc/img/Miuzeia Power Pack.jpg "Miuzei Raspberry Pi 3/3 Model B+ Battery Pack Expansion Board")
+![Battery Pack for Raspberry Pi](doc/img/Miuzeia Power Pack.jpg "Miuzei Raspberry Pi 3/3 Model B+ Battery Pack Expansion Board")
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")

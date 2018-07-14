@@ -3,7 +3,7 @@
 ## Active
 
 Test:
-![Battery Pack for Raspberry Pi](Miuzeia Power Pack.jpg)
+![alt text](Miuzeia Power Pack.jpg)
 
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")

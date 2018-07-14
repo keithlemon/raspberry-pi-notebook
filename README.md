@@ -2,11 +2,8 @@
 
 ## Active
 
-Test: [alt text](Miuzeia Power Pack.jpg)
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+Test: 
+![alt text](https://github.com/keithlemon/raspberry-pi-notebook/blob/master/doc/img/Miuzeia%20Power%20Pack.jpg)
 
 Installing BlueZ for BLE support [link](https://www.youtube.com/watch?v=5fQR2PHMDWE)
 

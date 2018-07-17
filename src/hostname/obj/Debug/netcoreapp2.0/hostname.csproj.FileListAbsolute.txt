@@ -8,3 +8,8 @@ C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\obj\Debug\ne
 C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\obj\Debug\netcoreapp2.0\hostname.AssemblyInfo.cs
 C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\obj\Debug\netcoreapp2.0\hostname.dll
 C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\obj\Debug\netcoreapp2.0\hostname.pdb
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\bin\Debug\netcoreapp2.0\hostname.deps.json
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\bin\Debug\netcoreapp2.0\hostname.runtimeconfig.json
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\bin\Debug\netcoreapp2.0\hostname.runtimeconfig.dev.json
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\bin\Debug\netcoreapp2.0\hostname.dll
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\bin\Debug\netcoreapp2.0\hostname.pdb

@@ -1,0 +1,10 @@
+C:\build_output\hostname.deps.json
+C:\build_output\hostname.runtimeconfig.json
+C:\build_output\hostname.runtimeconfig.dev.json
+C:\build_output\hostname.dll
+C:\build_output\hostname.pdb
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\obj\Debug\netcoreapp2.0\hostname.csproj.CoreCompileInputs.cache
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\obj\Debug\netcoreapp2.0\hostname.AssemblyInfoInputs.cache
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\obj\Debug\netcoreapp2.0\hostname.AssemblyInfo.cs
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\obj\Debug\netcoreapp2.0\hostname.dll
+C:\Users\k.lemon\OneDrive\github\raspberry-pi-notebook\src\hostname\obj\Debug\netcoreapp2.0\hostname.pdb
